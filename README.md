@@ -1,6 +1,6 @@
 后端框架：SpringBoot、Spring、Mybatis + Redis（结合Cookie实现分布式会话，存储用户和购物车信息） + Elasticsearch（优化商品搜索）  
 
-本仓库为网上商城后端代码，实现整个项目需要结合前端代码[foodie-dev](https://github.com/dupeihui/foodie-frontend-code)
+本仓库为网上商城后端代码，实现整个项目需要结合前端代码[foodie-frontend-code](https://github.com/dupeihui/foodie-frontend-code)
 
 ## 可用功能
 
